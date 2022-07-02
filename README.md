@@ -1,6 +1,6 @@
 ## Collins Kigen
 
-<img src="https://number8.com/wp-content/uploads/2021/01/2021-software-development-salary-trends.png" width="100%"/>
+<img src="https://moringaschool.com/wp-content/themes/moringa/public/images/logo.png" width="100%"/>
 
 [![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/ckigenk)
 ![Profile views](https://gpvc.arturio.dev/ckigenk) <img src="https://img.shields.io/github/followers/ckigenk?label=Follow" style=" float:left, margin-right:10px" />
@@ -12,13 +12,13 @@
 
 👋 Hello! I am a Fullstack software developer proficient in Python and JavaScript.
 
-`⏰ Last updated: 02nd June, 2022`
+`⏰ Last updated: 02nd Jul, 2022`
 
 ### 📚 **Education**
 * Software Engineering, Moringa School, 2022
 
 
-[![Collins' github stats](https://github-readme-stats.vercel.app/api?username=ckigenk&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/collinskigen)
+[![Collins' github stats](https://github-readme-stats.vercel.app/api?username=collinskigen&show_icons=true&custom_title=My+GtHub+Stats)](https://github.com/collinskigen)
 [![Collins' wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=collinskigen&layout=compact&custom_title=My+Last+7+days+Wakatime+Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckigenk&exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/collinskigenk)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinskigen&exclude_repo=web-scrapping-intro,absenteeism-data-analysis,audio-book-deep-learning-business-case,purchase-recommendation,data-science-basics,Car-sales-Linear-regression,pandas-fundamental,pima-india-data-prediction.,data-science-logistic-regression,titanic-data-science,hotel-recommender,recommennder-system-levelup,black-friday,deep-learning-tensorflow,neural-network-basic,titanic-data-science,movie-recommendation-system&layout=compact)](https://github.com/collinskigenk)
 
