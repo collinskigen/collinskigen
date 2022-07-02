@@ -2,8 +2,8 @@
 
 <img src="https://moringaschool.com/wp-content/themes/moringa/public/images/logo.png" width="100%"/>
 
-[![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/ckigenk)
-![Profile views](https://gpvc.arturio.dev/ckigenk) <img src="https://img.shields.io/github/followers/ckigenk?label=Follow" style=" float:left, margin-right:10px" />
+[![Status](https://img.shields.io/badge/Status-Open_for_offers%20-brightgreen.svg)](https://github.com/collinskigen)
+![Profile views](https://gpvc.arturio.dev/collinskigen) <img src="https://img.shields.io/github/followers/collinskigen?label=Follow" style=" float:left, margin-right:10px" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Collins%20Kigen-pink.svg?logo=http://vectorlogo4u.com/wp-content/uploads/2016/02/RASPBERRY-PI-LOGO-VECTOR.png)](https://ckigenk.github.io/CollinsKigen/)
 [![Upwork](https://img.shields.io/badge/Upwork-Collins-green?style=flat&logo=Upwork&logoColor=green&link=https://www.upwork.com/freelancers/~01cd4a3e225c09c1d4)](https://www.upwork.com/freelancers/~0149a8964d3493eb5b)
